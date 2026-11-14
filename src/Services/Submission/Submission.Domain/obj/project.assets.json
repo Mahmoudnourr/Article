@@ -31,6 +31,16 @@
         "runtime": {
           "bin/placeholder/Blocks.Domain.dll": {}
         }
+      },
+      "Blocks.Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Blocks.Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blocks.Exceptions.dll": {}
+        }
       }
     }
   },
@@ -49,13 +59,19 @@
       "type": "project",
       "path": "../../../BuildingBlocks/Blocks.Domain/Blocks.Domain.csproj",
       "msbuildProject": "../../../BuildingBlocks/Blocks.Domain/Blocks.Domain.csproj"
+    },
+    "Blocks.Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../../../BuildingBlocks/Blocks.Exceptions/Blocks.Exceptions.csproj",
+      "msbuildProject": "../../../BuildingBlocks/Blocks.Exceptions/Blocks.Exceptions.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Articles.Abstractions >= 1.0.0",
       "Blocks.Core >= 1.0.0",
-      "Blocks.Domain >= 1.0.0"
+      "Blocks.Domain >= 1.0.0",
+      "Blocks.Exceptions >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -91,9 +107,6 @@
           "framework": "net9.0",
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Projects\\articles\\Articles\\Block.Domain\\Blocks.Domain.csproj": {
-              "projectPath": "D:\\Projects\\articles\\Articles\\Block.Domain\\Blocks.Domain.csproj"
-            },
             "D:\\Projects\\articles\\src\\BuildingBlocks\\Articles.Abstractions\\Articles.Abstractions.csproj": {
               "projectPath": "D:\\Projects\\articles\\src\\BuildingBlocks\\Articles.Abstractions\\Articles.Abstractions.csproj"
             },
@@ -102,6 +115,9 @@
             },
             "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Domain\\Blocks.Domain.csproj": {
               "projectPath": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Domain\\Blocks.Domain.csproj"
+            },
+            "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Exceptions\\Blocks.Exceptions.csproj": {
+              "projectPath": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Exceptions\\Blocks.Exceptions.csproj"
             }
           }
         }

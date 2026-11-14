@@ -10,3 +10,4 @@ D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\r
 D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\Articles.Abstractions.pdb
 D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\ref\Articles.Abstractions.dll
 D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\Articles.11A6425F.Up2Date
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\Articles.Abstractions.sourcelink.json

@@ -1018,7 +1018,8 @@
         "dependencies": {
           "Articles.Abstractions": "1.0.0",
           "Blocks.Core": "1.0.0",
-          "Blocks.Domain": "1.0.0"
+          "Blocks.Domain": "1.0.0",
+          "Blocks.Exceptions": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Submission.Domain.dll": {}
@@ -2744,8 +2745,8 @@
     },
     "Blocks.Domain/1.0.0": {
       "type": "project",
-      "path": "../../../../Articles/Block.Domain/Blocks.Domain.csproj",
-      "msbuildProject": "../../../../Articles/Block.Domain/Blocks.Domain.csproj"
+      "path": "../../../BuildingBlocks/Blocks.Domain/Blocks.Domain.csproj",
+      "msbuildProject": "../../../BuildingBlocks/Blocks.Domain/Blocks.Domain.csproj"
     },
     "Blocks.EntityFrameWork/1.0.0": {
       "type": "project",

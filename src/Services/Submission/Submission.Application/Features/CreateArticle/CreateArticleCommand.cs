@@ -1,5 +1,6 @@
 ﻿using Articles.Abstractions;
 using Articles.Abstractions.Enums;
+using Blocks.Domain;
 using FluentValidation;
 using MediatR;
 
@@ -11,7 +12,12 @@ public record CreateArticleCommand
        string Title,
        string Scope,
        ArticleType ArticleType
-    ) : IRequest<IdResponse>{ }
+    ) : IAuditableAction,IRequest<IdResponse> { 
+
+    public int CreatedById { get; set; }
+    public DateTime CreatedOn => DateTime.UtcNow;
+
+}
 
 
 public class CraeteArticleCommandValidator : AbstractValidator<CreateArticleCommand>

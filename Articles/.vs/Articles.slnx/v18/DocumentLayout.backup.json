@@ -3,6 +3,75 @@
   "WorkspaceRootPath": "D:\\Projects\\articles\\Articles\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B710DD6-D6B1-4955-7441-DFABF82DB1B1}|..\\src\\Services\\Submission\\Submission.API\\Submission.API.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.api\\submission.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7936AADD-F92E-A4F1-05B3-FEEF3B95ABDE}|..\\src\\Services\\Submission\\Submission.Application\\Submission.Application.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.application\\submission.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\submission.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7936AADD-F92E-A4F1-05B3-FEEF3B95ABDE}|..\\src\\Services\\Submission\\Submission.Application\\Submission.Application.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.application\\features\\createarticle\\createarticlecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7592B7-298E-5B53-9707-8FDCE0665C4E}|..\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj|d:\\projects\\articles\\src\\buildingblocks\\block.entityframework\\builderextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414EA03-BC11-49B7-8F33-9203DC3C78E0}|..\\src\\BuildingBlocks\\Blocks.Domain\\Blocks.Domain.csproj|d:\\projects\\articles\\src\\buildingblocks\\blocks.domain\\blocks.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\submission.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7592B7-298E-5B53-9707-8FDCE0665C4E}|..\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj|d:\\projects\\articles\\src\\buildingblocks\\block.entityframework\\blocks.entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7936AADD-F92E-A4F1-05B3-FEEF3B95ABDE}|..\\src\\Services\\Submission\\Submission.Application\\Submission.Application.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.application\\features\\createarticle\\createarticlecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7936AADD-F92E-A4F1-05B3-FEEF3B95ABDE}|..\\src\\Services\\Submission\\Submission.Application\\Submission.Application.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B710DD6-D6B1-4955-7441-DFABF82DB1B1}|..\\src\\Services\\Submission\\Submission.API\\Submission.API.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.api\\depenedancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730276B0-FD0D-4B14-ADA8-2A18677E38FA}|..\\src\\BuildingBlocks\\Blocks.MediatR\\Blocks.MediatR.csproj|d:\\projects\\articles\\src\\buildingblocks\\blocks.mediatr\\behaviours\\setuseridbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730276B0-FD0D-4B14-ADA8-2A18677E38FA}|..\\src\\BuildingBlocks\\Blocks.MediatR\\Blocks.MediatR.csproj|d:\\projects\\articles\\src\\buildingblocks\\blocks.mediatr\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414EA03-BC11-49B7-8F33-9203DC3C78E0}|..\\src\\BuildingBlocks\\Blocks.Domain\\Blocks.Domain.csproj|d:\\projects\\articles\\src\\buildingblocks\\blocks.domain\\iauditableaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\behaviors\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAECD3F-9C6E-4835-9B4D-2CF9F6568F28}|..\\src\\BuildingBlocks\\Blocks.Exceptions\\Blocks.Exceptions.csproj|d:\\projects\\articles\\src\\buildingblocks\\blocks.exceptions\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\entities\\articleactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\entities\\articleauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\submissiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\behaviors\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,22 +84,10 @@
       "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\entityconfigrations\\articleentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7936AADD-F92E-A4F1-05B3-FEEF3B95ABDE}|..\\src\\Services\\Submission\\Submission.Application\\Submission.Application.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.application\\features\\createarticle\\createarticlecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\entityconfigrations\\personentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D414EA03-BC11-49B7-8F33-9203DC3C78E0}|..\\src\\BuildingBlocks\\Blocks.Domain\\Blocks.Domain.csproj|d:\\projects\\articles\\src\\buildingblocks\\blocks.domain\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -39,19 +96,10 @@
       "AbsoluteMoniker": "D:0:0:{7E7592B7-298E-5B53-9707-8FDCE0665C4E}|..\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj|d:\\projects\\articles\\src\\buildingblocks\\block.entityframework\\repo\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\entities\\articleauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\entities\\articleactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\entityconfigrations\\articleactorentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\entityconfigrations\\articleauthorentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E7592B7-298E-5B53-9707-8FDCE0665C4E}|..\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj|d:\\projects\\articles\\src\\buildingblocks\\block.entityframework\\builderextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\entityconfigrations\\authorentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -64,9 +112,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{726342EC-ED22-F48D-A12A-2C0B43574FC2}|..\\src\\BuildingBlocks\\Articles.Abstractions\\Articles.Abstractions.csproj|d:\\projects\\articles\\src\\buildingblocks\\articles.abstractions\\enums\\contributionareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62115BF3-BB25-47AC-9F55-5858F7495215}|..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.domain\\valueobjects\\emailadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -90,31 +135,13 @@
       "AbsoluteMoniker": "D:0:0:{3B710DD6-D6B1-4955-7441-DFABF82DB1B1}|..\\src\\Services\\Submission\\Submission.API\\Submission.API.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\submissiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B710DD6-D6B1-4955-7441-DFABF82DB1B1}|..\\src\\Services\\Submission\\Submission.API\\Submission.API.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.api\\depenedancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7936AADD-F92E-A4F1-05B3-FEEF3B95ABDE}|..\\src\\Services\\Submission\\Submission.Application\\Submission.Application.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{730276B0-FD0D-4B14-ADA8-2A18677E38FA}|..\\src\\BuildingBlocks\\Blocks.MediatR\\Blocks.MediatR.csproj|d:\\projects\\articles\\src\\buildingblocks\\blocks.mediatr\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{730276B0-FD0D-4B14-ADA8-2A18677E38FA}|..\\src\\BuildingBlocks\\Blocks.MediatR\\Blocks.MediatR.csproj|d:\\projects\\articles\\src\\buildingblocks\\blocks.mediatr\\blocks.mediatr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B710DD6-D6B1-4955-7441-DFABF82DB1B1}|..\\src\\Services\\Submission\\Submission.API\\Submission.API.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A81128E8-30CE-0956-101A-1C1B761E11A1}|..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj|d:\\projects\\articles\\src\\services\\submission\\submission.persistance\\submission.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E7592B7-298E-5B53-9707-8FDCE0665C4E}|..\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj|d:\\projects\\articles\\src\\buildingblocks\\block.entityframework\\blocks.entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{726342EC-ED22-F48D-A12A-2C0B43574FC2}|..\\src\\BuildingBlocks\\Articles.Abstractions\\Articles.Abstractions.csproj|d:\\projects\\articles\\src\\buildingblocks\\articles.abstractions\\enums\\articlestage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -133,6 +160,32 @@
           "DockedHeight": 320,
           "SelectedChildIndex": 17,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Submission.API",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.API\\Submission.API.csproj",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.API\\Submission.API.csproj",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.API\\Submission.API.csproj",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.API\\Submission.API.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-14T21:34:11.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Submission.Application",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Application\\Submission.Application.csproj",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Application\\Submission.Application.csproj",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Application\\Submission.Application.csproj",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Application\\Submission.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-14T21:22:37.88Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -179,80 +232,280 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "CreateArticleCommandHandler.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommandHandler.cs",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommandHandler.cs",
               "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommandHandler.cs",
               "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T22:08:12.799Z"
+              "WhenOpened": "2026-11-08T22:08:12.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\Repository.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T22:03:02.315Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "builderExtentions.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\builderExtentions.cs",
+              "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\builderExtentions.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\builderExtentions.cs",
+              "RelativeToolTip": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\builderExtentions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T21:32:30.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Journal.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Journal.cs",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Journal.cs",
               "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Journal.cs",
               "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Journal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T19:26:28.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Person.cs",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Person.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Person.cs",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T10:39:20.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Article.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Article.cs",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Article.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Article.cs",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Article.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T19:15:47.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArticleRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\ArticleRepository.cs",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\ArticleRepository.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\ArticleRepository.cs",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\ArticleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T21:55:11.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JournalEntityConfiguration.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\JournalEntityConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\JournalEntityConfiguration.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\JournalEntityConfiguration.cs",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\JournalEntityConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T21:44:03.524Z",
+              "WhenOpened": "2026-11-05T19:26:28.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Article.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Article.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:15:47.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Blocks.Domain",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Domain\\Blocks.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Blocks.Domain\\Blocks.Domain.csproj",
+              "ToolTip": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Domain\\Blocks.Domain.csproj",
+              "RelativeToolTip": "..\\src\\BuildingBlocks\\Blocks.Domain\\Blocks.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-14T21:27:20.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Submission.Domain",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-14T21:21:42.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Submission.Persistance.csproj",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-05T21:06:20.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateArticleCommand.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommand.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommand.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommand.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T20:44:28.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:05:07.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepenedancyInjection.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.API\\DepenedancyInjection.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.API\\DepenedancyInjection.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.API\\DepenedancyInjection.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.API\\DepenedancyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:43:15.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SetUserIdBehaviour.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\SetUserIdBehaviour.cs",
+              "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\SetUserIdBehaviour.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\SetUserIdBehaviour.cs",
+              "RelativeToolTip": "..\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\SetUserIdBehaviour.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T21:13:56.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Blocks.EntityFrameWork.csproj",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj",
+              "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj",
+              "ToolTip": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj",
+              "RelativeToolTip": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-05T21:55:46.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuditableAction.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Domain\\IAuditableAction.cs",
+              "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Blocks.Domain\\IAuditableAction.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Domain\\IAuditableAction.cs",
+              "RelativeToolTip": "..\\src\\BuildingBlocks\\Blocks.Domain\\IAuditableAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T21:09:28.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Behaviors\\Article.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Behaviors\\Article.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Behaviors\\Article.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Behaviors\\Article.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T20:54:36.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Exceptions\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Blocks.Exceptions\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Exceptions\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "..\\src\\BuildingBlocks\\Blocks.Exceptions\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T21:01:45.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArticleActor.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleActor.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleActor.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleActor.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T11:06:14.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "..\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:12:18.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ArticleAuthor.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleAuthor.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleAuthor.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleAuthor.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleAuthor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T11:08:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Author.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T11:04:08.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubmissionDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\SubmissionDbContext.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\SubmissionDbContext.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\SubmissionDbContext.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Persistance\\SubmissionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T20:35:35.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Journal.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Behaviors\\Journal.cs",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Behaviors\\Journal.cs",
@@ -265,7 +518,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 24,
+              "Title": "JournalEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\JournalEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\JournalEntityConfiguration.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\JournalEntityConfiguration.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\JournalEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T21:44:03.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T21:55:11.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Person.cs",
+              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Person.cs",
+              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:39:20.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "ArticleEntityConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\ArticleEntityConfiguration.cs",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\ArticleEntityConfiguration.cs",
@@ -277,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 28,
               "Title": "PersonEntityConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\PersonEntityConfiguration.cs",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\PersonEntityConfiguration.cs",
@@ -289,19 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\Repository.cs",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Persistance\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T22:03:02.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 29,
               "Title": "IEntity.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Domain\\Entities\\IEntity.cs",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Blocks.Domain\\Entities\\IEntity.cs",
@@ -313,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 30,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\Repo\\Repository.cs",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\Repo\\Repository.cs",
@@ -325,19 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ArticleAuthor.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleAuthor.cs",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleAuthor.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleAuthor.cs",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleAuthor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T11:08:37.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 31,
               "Title": "ArticleActorEntityConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\ArticleActorEntityConfiguration.cs",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\ArticleActorEntityConfiguration.cs",
@@ -349,19 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ArticleActor.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleActor.cs",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleActor.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleActor.cs",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\ArticleActor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T11:06:14.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "ArticleAuthorEntityConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\ArticleAuthorEntityConfiguration.cs",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\ArticleAuthorEntityConfiguration.cs",
@@ -373,19 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "builderExtentions.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\builderExtentions.cs",
-              "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\builderExtentions.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\builderExtentions.cs",
-              "RelativeToolTip": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\builderExtentions.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T21:32:30.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 33,
               "Title": "AuthorEntityConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\AuthorEntityConfiguration.cs",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\EntityConfigrations\\AuthorEntityConfiguration.cs",
@@ -397,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 34,
               "Title": "EntityConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\EntityConfiguration\\EntityConfiguration.cs",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\EntityConfiguration\\EntityConfiguration.cs",
@@ -409,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 35,
               "Title": "UserRoleType.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Articles.Abstractions\\Enums\\UserRoleType.cs",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Articles.Abstractions\\Enums\\UserRoleType.cs",
@@ -421,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 36,
               "Title": "ContributionAreas.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Articles.Abstractions\\Enums\\ContributionAreas.cs",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Articles.Abstractions\\Enums\\ContributionAreas.cs",
@@ -433,19 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Author.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Author.cs",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Author.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Entities\\Author.cs",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Domain\\Entities\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T11:04:08.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 37,
               "Title": "EmailAdress.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\ValueObjects\\EmailAdress.cs",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Domain\\ValueObjects\\EmailAdress.cs",
@@ -457,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 38,
               "Title": "Guard.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Core\\Guard.cs",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Blocks.Core\\Guard.cs",
@@ -469,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 48,
               "Title": "IEntity.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\Articles\\Block.Domain\\Entites\\IEntity.cs",
               "RelativeDocumentMoniker": "Block.Domain\\Entites\\IEntity.cs",
@@ -481,7 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 39,
               "Title": "RepositoryExtentions.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\RepositoryExtentions.cs",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\RepositoryExtentions.cs",
@@ -493,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 41,
               "Title": "HttpException.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Exceptions\\Exceptions\\HttpException.cs",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Blocks.Exceptions\\Exceptions\\HttpException.cs",
@@ -505,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 42,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\Repo\\IRepository.cs",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\Repo\\IRepository.cs",
@@ -517,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 40,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Exceptions\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Blocks.Exceptions\\Exceptions\\NotFoundException.cs",
@@ -529,7 +758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 43,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.API\\Program.cs",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.API\\Program.cs",
@@ -541,19 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "DepenedancyInjection.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.API\\DepenedancyInjection.cs",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.API\\DepenedancyInjection.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.API\\DepenedancyInjection.cs",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.API\\DepenedancyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T11:43:15.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 44,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\DependencyInjection.cs",
@@ -565,31 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "SubmissionDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\SubmissionDbContext.cs",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\SubmissionDbContext.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\SubmissionDbContext.cs",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Persistance\\SubmissionDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T20:35:35.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Application\\DependencyInjection.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBEAAAB+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T12:05:07.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 46,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.API\\appsettings.json",
               "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.API\\appsettings.json",
@@ -601,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 45,
               "Title": "Blocks.MediatR.csproj",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.MediatR\\Blocks.MediatR.csproj",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Blocks.MediatR\\Blocks.MediatR.csproj",
@@ -609,47 +802,12 @@
               "RelativeToolTip": "..\\src\\BuildingBlocks\\Blocks.MediatR\\Blocks.MediatR.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-09T12:08:41.808Z"
+              "WhenOpened": "2026-11-09T12:08:41.808Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ValidationBehaviour.cs",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\ValidationBehaviour.cs",
-              "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\ValidationBehaviour.cs",
-              "ToolTip": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\ValidationBehaviour.cs",
-              "RelativeToolTip": "..\\src\\BuildingBlocks\\Blocks.MediatR\\Behaviours\\ValidationBehaviour.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowAsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T12:12:18.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Submission.Persistance.csproj",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj",
-              "RelativeDocumentMoniker": "..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj",
-              "ToolTip": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj",
-              "RelativeToolTip": "..\\src\\Services\\Submission\\Submission.Persistance\\Submission.Persistance.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-05T21:06:20.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Blocks.EntityFrameWork.csproj",
-              "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj",
-              "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj",
-              "ToolTip": "D:\\Projects\\articles\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj",
-              "RelativeToolTip": "..\\src\\BuildingBlocks\\Block.EntityFrameWork\\Blocks.EntityFrameWork.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-05T21:55:46.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 47,
               "Title": "ArticleStage.cs",
               "DocumentMoniker": "D:\\Projects\\articles\\src\\BuildingBlocks\\Articles.Abstractions\\Enums\\ArticleStage.cs",
               "RelativeDocumentMoniker": "..\\src\\BuildingBlocks\\Articles.Abstractions\\Enums\\ArticleStage.cs",

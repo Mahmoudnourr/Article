@@ -10,3 +10,4 @@ D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\refint\Bloc
 D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\Blocks.Core.pdb
 D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\ref\Blocks.Core.dll
 D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\Blocks.C.A6976BD7.Up2Date
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\Blocks.Core.sourcelink.json

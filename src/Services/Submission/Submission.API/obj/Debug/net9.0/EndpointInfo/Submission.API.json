@@ -77,6 +77,15 @@
           },
           "articleType": {
             "$ref": "#/components/schemas/ArticleType"
+          },
+          "createdById": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "createdOn": {
+            "type": "string",
+            "format": "date-time",
+            "readOnly": true
           }
         },
         "additionalProperties": false

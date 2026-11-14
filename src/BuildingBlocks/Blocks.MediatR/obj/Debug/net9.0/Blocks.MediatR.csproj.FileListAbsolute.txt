@@ -11,3 +11,6 @@ D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\refint\B
 D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\Blocks.MediatR.pdb
 D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\ref\Blocks.MediatR.dll
 D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\Blocks.M.49C8A6B9.Up2Date
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\bin\Debug\net9.0\Blocks.Domain.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\bin\Debug\net9.0\Blocks.Domain.pdb
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\Blocks.MediatR.sourcelink.json

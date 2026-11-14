@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "Submission.Persistance/1.0.0": {
         "dependencies": {
+          "Blocks.Domain": "1.0.0",
           "Blocks.EntityFrameWork": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.22",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.22",
@@ -538,9 +539,18 @@
           }
         }
       },
+      "Blocks.Domain/1.0.0": {
+        "runtime": {
+          "Blocks.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Blocks.EntityFrameWork/1.0.0": {
         "dependencies": {
           "Articles.Abstractions": "1.0.0",
+          "Blocks.Domain": "1.0.0",
           "Blocks.Exceptions": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.22",
           "Microsoft.EntityFrameworkCore.Relational": "9.0.22"
@@ -563,7 +573,9 @@
       "Submission.Domain/1.0.0": {
         "dependencies": {
           "Articles.Abstractions": "1.0.0",
-          "Blocks.Core": "1.0.0"
+          "Blocks.Core": "1.0.0",
+          "Blocks.Domain": "1.0.0",
+          "Blocks.Exceptions": "1.0.0"
         },
         "runtime": {
           "Submission.Domain.dll": {
@@ -852,6 +864,11 @@
       "sha512": ""
     },
     "Blocks.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blocks.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "Blocks.MediatR/1.0.0": {
         "dependencies": {
+          "Blocks.Domain": "1.0.0",
           "FluentValidation": "12.2.0",
           "FluentValidation.DependencyInjectionExtensions": "12.2.0",
           "MediatR": "14.2.0"
@@ -127,6 +128,14 @@
             "fileVersion": "10.0.25.52411"
           }
         }
+      },
+      "Blocks.Domain/1.0.0": {
+        "runtime": {
+          "Blocks.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -212,6 +221,11 @@
       "sha512": "sha512-0KdBK+h7G13PuOSC2R/DalAoFMvdYMznvGRuICtkdcUMXgl/gYXsG6z4yUvTxHSMACorWgHCU1Faq0KUHU6yAQ==",
       "path": "system.diagnostics.diagnosticsource/10.0.0",
       "hashPath": "system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512"
+    },
+    "Blocks.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

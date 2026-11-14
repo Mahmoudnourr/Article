@@ -10,3 +10,4 @@ D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\refin
 D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\Blocks.Exceptions.pdb
 D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\ref\Blocks.Exceptions.dll
 D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\Blocks.E.C9EAD57B.Up2Date
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\Blocks.Exceptions.sourcelink.json

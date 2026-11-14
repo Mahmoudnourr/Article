@@ -649,8 +649,8 @@
     },
     "Blocks.Domain/1.0.0": {
       "type": "project",
-      "path": "../../../Articles/Block.Domain/Blocks.Domain.csproj",
-      "msbuildProject": "../../../Articles/Block.Domain/Blocks.Domain.csproj"
+      "path": "../Blocks.Domain/Blocks.Domain.csproj",
+      "msbuildProject": "../Blocks.Domain/Blocks.Domain.csproj"
     },
     "Blocks.Exceptions/1.0.0": {
       "type": "project",
@@ -700,9 +700,6 @@
           "framework": "net9.0",
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Projects\\articles\\Articles\\Block.Domain\\Blocks.Domain.csproj": {
-              "projectPath": "D:\\Projects\\articles\\Articles\\Block.Domain\\Blocks.Domain.csproj"
-            },
             "D:\\Projects\\articles\\src\\BuildingBlocks\\Articles.Abstractions\\Articles.Abstractions.csproj": {
               "projectPath": "D:\\Projects\\articles\\src\\BuildingBlocks\\Articles.Abstractions\\Articles.Abstractions.csproj"
             },

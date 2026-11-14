@@ -10,7 +10,8 @@
         "dependencies": {
           "Articles.Abstractions": "1.0.0",
           "Blocks.Core": "1.0.0",
-          "Blocks.Domain": "1.0.0"
+          "Blocks.Domain": "1.0.0",
+          "Blocks.Exceptions": "1.0.0"
         },
         "runtime": {
           "Submission.Domain.dll": {}
@@ -39,6 +40,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Blocks.Exceptions/1.0.0": {
+        "runtime": {
+          "Blocks.Exceptions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -59,6 +68,11 @@
       "sha512": ""
     },
     "Blocks.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blocks.Exceptions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

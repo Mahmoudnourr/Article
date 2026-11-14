@@ -17,3 +17,4 @@ D:\Projects\articles\src\BuildingBlocks\Block.EntityFrameWork\bin\Debug\net9.0\B
 D:\Projects\articles\src\BuildingBlocks\Block.EntityFrameWork\bin\Debug\net9.0\Blocks.Exceptions.pdb
 D:\Projects\articles\src\BuildingBlocks\Block.EntityFrameWork\bin\Debug\net9.0\Articles.Abstractions.dll
 D:\Projects\articles\src\BuildingBlocks\Block.EntityFrameWork\bin\Debug\net9.0\Articles.Abstractions.pdb
+D:\Projects\articles\src\BuildingBlocks\Block.EntityFrameWork\obj\Debug\net9.0\Blocks.EntityFrameWork.sourcelink.json

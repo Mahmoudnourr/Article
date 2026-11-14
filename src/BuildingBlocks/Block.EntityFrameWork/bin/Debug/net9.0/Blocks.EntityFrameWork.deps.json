@@ -9,6 +9,7 @@
       "Blocks.EntityFrameWork/1.0.0": {
         "dependencies": {
           "Articles.Abstractions": "1.0.0",
+          "Blocks.Domain": "1.0.0",
           "Blocks.Exceptions": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.22",
           "Microsoft.EntityFrameworkCore.Relational": "9.0.22"
@@ -160,6 +161,14 @@
           }
         }
       },
+      "Blocks.Domain/1.0.0": {
+        "runtime": {
+          "Blocks.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Blocks.Exceptions/1.0.0": {
         "runtime": {
           "Blocks.Exceptions.dll": {
@@ -261,6 +270,11 @@
       "hashPath": "microsoft.extensions.primitives.9.0.22.nupkg.sha512"
     },
     "Articles.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blocks.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -12,8 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Articles\Block.Domain\Blocks.Domain.csproj" />
+    
     <ProjectReference Include="..\Articles.Abstractions\Articles.Abstractions.csproj" />
+    
     <ProjectReference Include="..\Blocks.Domain\Blocks.Domain.csproj" />
     <ProjectReference Include="..\Blocks.Exceptions\Blocks.Exceptions.csproj" />
   </ItemGroup>

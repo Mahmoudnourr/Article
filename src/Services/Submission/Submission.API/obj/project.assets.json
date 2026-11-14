@@ -1096,6 +1096,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "Blocks.Domain": "1.0.0",
           "FluentValidation": "12.2.0",
           "FluentValidation.DependencyInjectionExtensions": "12.2.0",
           "MediatR": "14.2.0"
@@ -1132,7 +1133,8 @@
         "dependencies": {
           "Articles.Abstractions": "1.0.0",
           "Blocks.Core": "1.0.0",
-          "Blocks.Domain": "1.0.0"
+          "Blocks.Domain": "1.0.0",
+          "Blocks.Exceptions": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Submission.Domain.dll": {}
