@@ -1,0 +1,12 @@
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\bin\Debug\net9.0\Blocks.Core.deps.json
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\bin\Debug\net9.0\Blocks.Core.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\bin\Debug\net9.0\Blocks.Core.pdb
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\Blocks.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\Blocks.Core.AssemblyInfoInputs.cache
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\Blocks.Core.AssemblyInfo.cs
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\Blocks.Core.csproj.CoreCompileInputs.cache
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\Blocks.Core.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\refint\Blocks.Core.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\Blocks.Core.pdb
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\ref\Blocks.Core.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.Core\obj\Debug\net9.0\Blocks.C.A6976BD7.Up2Date

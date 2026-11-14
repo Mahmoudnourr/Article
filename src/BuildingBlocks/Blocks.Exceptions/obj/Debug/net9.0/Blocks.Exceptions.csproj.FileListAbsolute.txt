@@ -1,0 +1,12 @@
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\bin\Debug\net9.0\Blocks.Exceptions.deps.json
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\bin\Debug\net9.0\Blocks.Exceptions.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\bin\Debug\net9.0\Blocks.Exceptions.pdb
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\Blocks.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\Blocks.Exceptions.AssemblyInfoInputs.cache
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\Blocks.Exceptions.AssemblyInfo.cs
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\Blocks.Exceptions.csproj.CoreCompileInputs.cache
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\Blocks.Exceptions.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\refint\Blocks.Exceptions.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\Blocks.Exceptions.pdb
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\ref\Blocks.Exceptions.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.Exceptions\obj\Debug\net9.0\Blocks.E.C9EAD57B.Up2Date

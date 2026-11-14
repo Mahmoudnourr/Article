@@ -1,0 +1,145 @@
+{
+  "version": 4,
+  "targets": {
+    "net9.0": {
+      "Articles.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Articles.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Articles.Abstractions.dll": {}
+        }
+      },
+      "Blocks.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Blocks.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blocks.Core.dll": {}
+        }
+      },
+      "Blocks.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Blocks.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blocks.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Articles.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../../../BuildingBlocks/Articles.Abstractions/Articles.Abstractions.csproj",
+      "msbuildProject": "../../../BuildingBlocks/Articles.Abstractions/Articles.Abstractions.csproj"
+    },
+    "Blocks.Core/1.0.0": {
+      "type": "project",
+      "path": "../../../BuildingBlocks/Blocks.Core/Blocks.Core.csproj",
+      "msbuildProject": "../../../BuildingBlocks/Blocks.Core/Blocks.Core.csproj"
+    },
+    "Blocks.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../../BuildingBlocks/Blocks.Domain/Blocks.Domain.csproj",
+      "msbuildProject": "../../../BuildingBlocks/Blocks.Domain/Blocks.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Articles.Abstractions >= 1.0.0",
+      "Blocks.Core >= 1.0.0",
+      "Blocks.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Windows 10\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj",
+      "projectName": "Submission.Domain",
+      "projectPath": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\Submission.Domain.csproj",
+      "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\articles\\src\\Services\\Submission\\Submission.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "D:\\Projects\\articles\\Articles\\Block.Domain\\Blocks.Domain.csproj": {
+              "projectPath": "D:\\Projects\\articles\\Articles\\Block.Domain\\Blocks.Domain.csproj"
+            },
+            "D:\\Projects\\articles\\src\\BuildingBlocks\\Articles.Abstractions\\Articles.Abstractions.csproj": {
+              "projectPath": "D:\\Projects\\articles\\src\\BuildingBlocks\\Articles.Abstractions\\Articles.Abstractions.csproj"
+            },
+            "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Core\\Blocks.Core.csproj": {
+              "projectPath": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Core\\Blocks.Core.csproj"
+            },
+            "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Domain\\Blocks.Domain.csproj": {
+              "projectPath": "D:\\Projects\\articles\\src\\BuildingBlocks\\Blocks.Domain\\Blocks.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net9.0": {
+        "framework": "net9.0",
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

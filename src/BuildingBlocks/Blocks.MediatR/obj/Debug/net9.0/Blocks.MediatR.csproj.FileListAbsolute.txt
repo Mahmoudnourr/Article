@@ -1,0 +1,13 @@
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\bin\Debug\net9.0\Blocks.MediatR.deps.json
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\bin\Debug\net9.0\Blocks.MediatR.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\bin\Debug\net9.0\Blocks.MediatR.pdb
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\Blocks.MediatR.csproj.AssemblyReference.cache
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\Blocks.MediatR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\Blocks.MediatR.AssemblyInfoInputs.cache
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\Blocks.MediatR.AssemblyInfo.cs
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\Blocks.MediatR.csproj.CoreCompileInputs.cache
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\Blocks.MediatR.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\refint\Blocks.MediatR.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\Blocks.MediatR.pdb
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\ref\Blocks.MediatR.dll
+D:\Projects\articles\src\BuildingBlocks\Blocks.MediatR\obj\Debug\net9.0\Blocks.M.49C8A6B9.Up2Date

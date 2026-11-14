@@ -1,0 +1,23 @@
+﻿using MediatR;
+using Submission.Application.Features.CreateArticle;
+
+namespace Submission.API.Endpoints;
+
+    public static class CreateArticleEndpoint
+    {
+        public static void Map(this IEndpointRouteBuilder endpoints)
+        {
+            endpoints.MapPost("api/Articles", async (CreateArticleCommand command , ISender sender) =>
+            {
+                var response = await sender.Send(command);
+                return Results.Created($"api/Articles/{response.Id}", response);
+            })
+            .RequireAuthorization(policy => policy.RequireRole("AUT"))
+            .WithName("CreateArticle")
+            .WithTags("Articles")
+            .Produces(StatusCodes.Status201Created)
+            .ProducesProblem(StatusCodes.Status401Unauthorized)
+            .ProducesValidationProblem(StatusCodes.Status400BadRequest);
+        }
+    }
+

@@ -1,0 +1,12 @@
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\bin\Debug\net9.0\Articles.Abstractions.deps.json
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\bin\Debug\net9.0\Articles.Abstractions.dll
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\bin\Debug\net9.0\Articles.Abstractions.pdb
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\Articles.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\Articles.Abstractions.AssemblyInfoInputs.cache
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\Articles.Abstractions.AssemblyInfo.cs
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\Articles.Abstractions.csproj.CoreCompileInputs.cache
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\Articles.Abstractions.dll
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\refint\Articles.Abstractions.dll
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\Articles.Abstractions.pdb
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\ref\Articles.Abstractions.dll
+D:\Projects\articles\src\BuildingBlocks\Articles.Abstractions\obj\Debug\net9.0\Articles.11A6425F.Up2Date
